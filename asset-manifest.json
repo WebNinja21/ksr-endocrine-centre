@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WebNinja21/static/css/main.7c3946d4.css",
-    "main.js": "/WebNinja21/static/js/main.bcf2b170.js",
-    "static/js/453.742e82cf.chunk.js": "/WebNinja21/static/js/453.742e82cf.chunk.js",
-    "static/media/KSR_Banner.jpeg": "/WebNinja21/static/media/KSR_Banner.5c7c4a4ff49353e7b894.jpeg",
-    "index.html": "/WebNinja21/index.html",
-    "main.7c3946d4.css.map": "/WebNinja21/static/css/main.7c3946d4.css.map",
-    "main.bcf2b170.js.map": "/WebNinja21/static/js/main.bcf2b170.js.map",
-    "453.742e82cf.chunk.js.map": "/WebNinja21/static/js/453.742e82cf.chunk.js.map"
+    "main.css": "/ksr-endocrine-centre/static/css/main.7c3946d4.css",
+    "main.js": "/ksr-endocrine-centre/static/js/main.0a4f1f93.js",
+    "static/js/453.742e82cf.chunk.js": "/ksr-endocrine-centre/static/js/453.742e82cf.chunk.js",
+    "static/media/KSR_Banner.jpeg": "/ksr-endocrine-centre/static/media/KSR_Banner.5c7c4a4ff49353e7b894.jpeg",
+    "index.html": "/ksr-endocrine-centre/index.html",
+    "main.7c3946d4.css.map": "/ksr-endocrine-centre/static/css/main.7c3946d4.css.map",
+    "main.0a4f1f93.js.map": "/ksr-endocrine-centre/static/js/main.0a4f1f93.js.map",
+    "453.742e82cf.chunk.js.map": "/ksr-endocrine-centre/static/js/453.742e82cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c3946d4.css",
-    "static/js/main.bcf2b170.js"
+    "static/js/main.0a4f1f93.js"
   ]
 }
